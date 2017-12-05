@@ -31,5 +31,6 @@ if (name != null && !name.isEmpty()) {
     <hr/>
     <p>The JBoss EAP server name is: <%= System.getProperty("jboss.server.name") %></p>
     <p>The current server time is: <%= new java.util.Date() %></p>
+    <p>Author: Lucas Costi | The source for this app is on GitHub: <a href="https://github.com/lucascosti/hello2">https://github.com/lucascosti/hello2</a>
   </body>
-</html> 
+</html>
