@@ -3,7 +3,7 @@
     <title>Everything Is Awesome!</title>
 <%
 String name = request.getParameter("name");
-String message = "\"Hello, World.\" still sucks. EVERYTHING IS AWESOME 2!";
+String message = "\"Hello, World.\" still sucks. EVERYTHING IS AWESOME!";
 %>
   </head>
   <body>

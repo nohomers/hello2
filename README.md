@@ -1,4 +1,4 @@
-# Everything is Awesome Hello World App for JBoss EAP
+# 'Everything is Awesome' Hello World App for JBoss EAP
 
 This is my take on a simple Java 'Hello World' application, which I use for testing JBoss EAP on OpenShift.
 
