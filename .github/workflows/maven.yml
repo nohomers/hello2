@@ -21,3 +21,10 @@ jobs:
         restore-keys: ${{ runner.os }}-m2
     - name: Build with Maven
       run: mvn -B package --file pom.xml
+    - name: Create staging dir and copy packages
+      run: mkdir staging && cp target/*.war staging
+    - name: Upload packages to Actions artifacts
+      uses: actions/upload-artifact@v1
+      with:
+        name: Package
+        path: staging
