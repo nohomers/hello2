@@ -1,4 +1,4 @@
-# 'Everything is Awesome' Hello World App ~~for JBoss EAP~~ GitHub Actions Testing!!
+# 'Everything is Awesome' Hello World App for ~~JBoss EAP~~ GitHub Actions Testing!!
 
 This is my take on a simple Java 'Hello World' application, which I use for testing JBoss EAP on OpenShift (and GitHub Actions java guide testing)
 
