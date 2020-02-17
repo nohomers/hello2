@@ -1,6 +1,6 @@
-# 'Everything is Awesome' Hello World App for JBoss EAP
+# 'Everything is Awesome' Hello World App ~~for JBoss EAP~~ GitHub Actions Testing!!
 
-This is my take on a simple Java 'Hello World' application, which I use for testing JBoss EAP on OpenShift.
+This is my take on a simple Java 'Hello World' application, which I use for testing JBoss EAP on OpenShift (and GitHub Actions java guide testing)
 
 To get started with OpenShift Container Platform on your local computer, see the documentation for the [Red Hat Container Development Kit](https://access.redhat.com/documentation/en-us/red_hat_container_development_kit/), a free developer product that uses `minishift` to quickly spin up a simple OpenShift instance for development purposes.
 
